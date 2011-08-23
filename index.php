@@ -9,7 +9,7 @@
 	<header>
 	
 		<h1 class="logo">Edit Feed</h1>
-		<p><i>Running on <a href="http://appbyedit.co.uk">Edit iPhone App</a> &bull; <a href="http://twitter.com/editbyedit">@editbyedit</a> &bull; <a href="mailto:x@byed.it">Contact</a></i></p>
+		<p><i>Running on <a href="http://appbyedit.co.uk">Edit iPhone App</a> &bull; <a href="http://twitter.com/TWITTER">@TWITTER</a> &bull; <a href="mailto:EMAIL">EMAIL</a></i></p>
 			
 	</header>	
 		<section>
