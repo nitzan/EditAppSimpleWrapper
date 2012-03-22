@@ -35,10 +35,12 @@
 		<?php 
 			$xml = simplexml_load_file('http://app.byed.it/'.$edit_account.'/feed');
 	
-			foreach ($xml->channel->children() as $i)
+			foreach ($xml->channel->item as $i)
 			{
+				echo "<div class='itemdiv'>";
 				echo "<h2>", $i->title , "</h2>";
 				echo "<article class=''>", $i->description , "</article>";
+				echo "</div>";
 			}
 		?>
 
