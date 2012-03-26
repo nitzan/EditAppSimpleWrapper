@@ -6,9 +6,9 @@
 	*/
 	   
 	$title = "My Blog, running on Edit app";
-	$edit_account = "0e2974";
-	$twitter_username = "14lox";
-	$email_address = "dai@14lox.com";
+	$edit_account = "??????";
+	$twitter_username = "??????";
+	$email_address = "???@example.com";
 	
 	/* END OF CONFIG */
 	
